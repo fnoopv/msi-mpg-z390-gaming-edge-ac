@@ -1,3 +1,6 @@
+---
+#此仓库不再更新，移步至[OC版本](https://github.com/fnoopv/MSI-Z390-Gaming-Edge-AC_OC)
+---
 # msi-mpg-z390-gaming-edge-ac
 MSI MPG Z390 GAMING EDGE AC黑苹果的efi  
 
